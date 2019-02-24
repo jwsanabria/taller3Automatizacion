@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:EPF="EPF.com" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_aedLMDhHEem6FI8bWIjrkA" selectedViews="_rOWg4DhQEem6FI8bWIjrkA" version="12.1.0.201708031200">
+    <semanticResources>EncuestaInicial.sistemaencuestas</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_rOWg4DhQEem6FI8bWIjrkA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_1h50UDhQEem6FI8bWIjrkA" name="DiagramaModulos" repPath="#_1fcWMDhQEem6FI8bWIjrkA">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']"/>
+        <target xmi:type="EPF:Encuesta" href="EncuestaInicial.sistemaencuestas#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_1huOIDhQEem6FI8bWIjrkA" name="DiagramaModulos" uid="_1fcWMDhQEem6FI8bWIjrkA">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_1huOIThQEem6FI8bWIjrkA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_1huOIjhQEem6FI8bWIjrkA"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_1o0UoDhQEem6FI8bWIjrkA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_1o0UoThQEem6FI8bWIjrkA" type="Sirius" element="_1huOIDhQEem6FI8bWIjrkA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_1qDqwDhQEem6FI8bWIjrkA" type="2002" element="_1huOJDhQEem6FI8bWIjrkA">
+          <children xmi:type="notation:Node" xmi:id="_147NMDhQEem6FI8bWIjrkA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_15BT0DhQEem6FI8bWIjrkA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_15BT0ThQEem6FI8bWIjrkA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_15BT0jhQEem6FI8bWIjrkA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_1qDqwThQEem6FI8bWIjrkA" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1qDqwjhQEem6FI8bWIjrkA"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_158g4DhQEem6FI8bWIjrkA" type="2002" element="_1huOJjhQEem6FI8bWIjrkA">
+          <children xmi:type="notation:Node" xmi:id="_16CngDhQEem6FI8bWIjrkA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_16DOkDhQEem6FI8bWIjrkA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_16DOkThQEem6FI8bWIjrkA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_16DOkjhQEem6FI8bWIjrkA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_158g4ThQEem6FI8bWIjrkA" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_158g4jhQEem6FI8bWIjrkA" x="210"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_1o0UojhQEem6FI8bWIjrkA"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_1huOJDhQEem6FI8bWIjrkA" name="Modulo de datos personales" tooltipText="titulo" width="-1" height="-1">
+      <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.0"/>
+      <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.0"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1huOJThQEem6FI8bWIjrkA" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_1huOJjhQEem6FI8bWIjrkA" name="Módulo de ingresos" tooltipText="titulo" width="-1" height="-1">
+      <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
+      <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1huOJzhQEem6FI8bWIjrkA" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_1huOKDhQEem6FI8bWIjrkA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer"/>
+    <target xmi:type="EPF:Encuesta" href="EncuestaInicial.sistemaencuestas#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

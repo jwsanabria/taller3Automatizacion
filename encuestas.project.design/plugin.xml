@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin>
+  <extension point="org.eclipse.sirius.componentization">
+    <component class="encuestas.project.design.Activator"
+               id="encuestas.project.design"
+	       name="encuestas">
+    </component>
+  </extension>
+</plugin>
