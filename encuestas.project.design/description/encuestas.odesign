@@ -3,12 +3,52 @@
   <ownedViewpoints name="encuentas" modelFileExtension="sistemaencuestas ecore">
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="General " domainClass="Encuesta" enablePopupBars="true">
       <defaultLayer name="Default">
-        <containerMappings name="ModuloContainer" semanticCandidatesExpression="feature:elemento" domainClass="SistemaEncuestas::Modulo">
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelExpression="feature:titulo" tooltipExpression="titulo">
+        <edgeMappings name="SaltoInicio" sourceMapping="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Inicio']" domainClass="SaltoInicio" useDomainElement="true">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <containerMappings name="ModuloContainer" semanticCandidatesExpression="feature:elemento" domainClass="Modulo">
+          <subNodeMappings name="Inicio" semanticCandidatesExpression="feature:inicio" domainClass="Inicio">
+            <style xsi:type="style:EllipseNodeDescription" showIcon="false" labelExpression="feature:titulo" labelPosition="node" resizeKind="NSEW" horizontalDiameterComputationExpression="10" verticalDiameterComputationExpression="10">
+              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
+            </style>
+          </subNodeMappings>
+          <subNodeMappings name="Fin" semanticCandidatesExpression="feature:fin" domainClass="Fin">
+            <borderedNodeMappings name="Fin" semanticCandidatesExpression="feature:fin" domainClass="Fin">
+              <style xsi:type="style:EllipseNodeDescription" labelExpression="feature:titulo" labelPosition="node" resizeKind="NSEW" horizontalDiameterComputationExpression="10" verticalDiameterComputationExpression="10">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              </style>
+            </borderedNodeMappings>
+            <style xsi:type="style:EllipseNodeDescription" labelExpression="feature:titulo" labelPosition="node" resizeKind="NSEW" horizontalDiameterComputationExpression="10" verticalDiameterComputationExpression="10">
+              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </style>
+          </subNodeMappings>
+          <subContainerMappings name="PreguntasContainer" semanticCandidatesExpression="feature:preguntas" domainClass="Pregunta">
+            <borderedNodeMappings name="Respuestas" semanticCandidatesExpression="feature:respuestas" domainClass="Respuesta">
+              <style xsi:type="style:EllipseNodeDescription" borderSizeComputationExpression="1" labelExpression="feature:valor" labelPosition="node" resizeKind="NSEW" horizontalDiameterComputationExpression="10" verticalDiameterComputationExpression="5">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+              </style>
+            </borderedNodeMappings>
+            <style xsi:type="style:WorkspaceImageDescription" borderSizeComputationExpression="1" labelExpression="feature:descripcion">
+              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </style>
+          </subContainerMappings>
+          <style xsi:type="style:WorkspaceImageDescription" borderSizeComputationExpression="1" labelExpression="feature:titulo">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_gray']"/>
           </style>
         </containerMappings>
       </defaultLayer>
