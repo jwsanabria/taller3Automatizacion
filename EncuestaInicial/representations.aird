@@ -45,7 +45,7 @@
       <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.0"/>
       <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.0"/>
       <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1huOJThQEem6FI8bWIjrkA" borderSize="1" borderSizeComputationExpression="1">
-        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
     </ownedDiagramElements>
@@ -53,7 +53,7 @@
       <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
       <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
       <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_1huOJzhQEem6FI8bWIjrkA" borderSize="1" borderSizeComputationExpression="1">
-        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
     </ownedDiagramElements>
@@ -80,7 +80,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eClk8jkmEemaqdavD6deHQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_eCihoTkmEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCihojkmEemaqdavD6deHQ" x="819" y="1030" width="100" height="100"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCihojkmEemaqdavD6deHQ" x="579" y="354" width="100" height="100"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_p3Kw0DknEemaqdavD6deHQ" type="3007" element="_p2ai4DknEemaqdavD6deHQ">
               <children xmi:type="notation:Node" xmi:id="_p3LX4DknEemaqdavD6deHQ" type="5003">
@@ -100,7 +100,7 @@
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_KPOn0jkpEemaqdavD6deHQ"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_KPMLkTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPMLkjkpEemaqdavD6deHQ" x="168" y="64" width="276" height="77"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPMLkjkpEemaqdavD6deHQ" x="168" y="89" width="276" height="77"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_KPUucDkpEemaqdavD6deHQ" type="3008" element="_KMPlQTkpEemaqdavD6deHQ">
               <children xmi:type="notation:Node" xmi:id="_KPUuczkpEemaqdavD6deHQ" type="5005"/>
@@ -112,26 +112,26 @@
                 <children xmi:type="notation:Node" xmi:id="_0QuTsDkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0QuTsTkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Qvh0DkpEemaqdavD6deHQ" type="3016" element="_0P3YEDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qvh0TkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qvh0jkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_Fgan8DksEemaqdavD6deHQ" type="3016" element="_FfmvoDksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Fgan8TksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fgan8jksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0QtsoTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QtsojkpEemaqdavD6deHQ" x="195" y="68" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QtsojkpEemaqdavD6deHQ" y="68" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Qu6wDkpEemaqdavD6deHQ" type="3012" element="_0P3YETkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Qu6wzkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Qu6xDkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Qvh0zkpEemaqdavD6deHQ" type="3016" element="_0P50UDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qvh1DkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qvh1TkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_Fgan8zksEemaqdavD6deHQ" type="3016" element="_FfmvoTksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Fgan9DksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fgan9TksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qu6wTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qu6wjkpEemaqdavD6deHQ" x="45" y="68" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qu6wjkpEemaqdavD6deHQ" x="151" y="68" width="150" height="50"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_KPUucTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPUucjkpEemaqdavD6deHQ" x="159" y="204" width="330" height="76"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPUucjkpEemaqdavD6deHQ" x="141" y="204" width="330" height="76"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_KPVVgzkpEemaqdavD6deHQ" type="3008" element="_KMSokDkpEemaqdavD6deHQ">
               <children xmi:type="notation:Node" xmi:id="_KPV8kDkpEemaqdavD6deHQ" type="5005"/>
@@ -143,37 +143,37 @@
                 <children xmi:type="notation:Node" xmi:id="_0QwI4DkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0QwI4TkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0QxXADkpEemaqdavD6deHQ" type="3016" element="_0P8QkDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0QxXATkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QxXAjkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_Fgan9jksEemaqdavD6deHQ" type="3016" element="_FfmvojksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Fgan9zksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fgan-DksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qvh1zkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qvh2DkpEemaqdavD6deHQ" y="82" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qvh2DkpEemaqdavD6deHQ" y="82" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0QwI4jkpEemaqdavD6deHQ" type="3012" element="_0P83oDkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0QwI5TkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0QwI5jkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Qx-EDkpEemaqdavD6deHQ" type="3016" element="_0P-s0DkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qx-ETkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qx-EjkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgbPADksEemaqdavD6deHQ" type="3016" element="_FfnWsDksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgbPATksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgbPAjksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0QwI4zkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QwI5DkpEemaqdavD6deHQ" x="105" y="82" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QwI5DkpEemaqdavD6deHQ" x="151" y="82" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Qwv8DkpEemaqdavD6deHQ" type="3012" element="_0P_T4DkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Qwv8zkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Qwv9DkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Qx-EzkpEemaqdavD6deHQ" type="3016" element="_0QEzcDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qx-FDkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qx-FTkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgbPAzksEemaqdavD6deHQ" type="3016" element="_FfnWsTksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgbPBDksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgbPBTksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Qwv8TkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qwv8jkpEemaqdavD6deHQ" x="206" y="82" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Qwv8jkpEemaqdavD6deHQ" x="302" y="82" width="150" height="50"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_KPVVhDkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPVVhTkpEemaqdavD6deHQ" x="166" y="333" width="316" height="90"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPVVhTkpEemaqdavD6deHQ" x="54" y="354" width="461" height="90"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_KPXKsDkpEemaqdavD6deHQ" type="3008" element="_KMUdwTkpEemaqdavD6deHQ">
               <children xmi:type="notation:Node" xmi:id="_KPXxwDkpEemaqdavD6deHQ" type="5005"/>
@@ -185,26 +185,26 @@
                 <children xmi:type="notation:Node" xmi:id="_0QylIjkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0QylIzkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q0aUDkpEemaqdavD6deHQ" type="3016" element="_0QH2wDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q0aUTkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q0aUjkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_Fgb2EDksEemaqdavD6deHQ" type="3016" element="_FfnWsjksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Fgb2ETksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fgb2EjksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0QylIDkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QylITkpEemaqdavD6deHQ" y="32" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QylITkpEemaqdavD6deHQ" y="83" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0QzzQDkpEemaqdavD6deHQ" type="3012" element="_0QId0DkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0QzzQzkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0QzzRDkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q0aUzkpEemaqdavD6deHQ" type="3016" element="_0QLhIDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q0aVDkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q0aVTkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_Fgb2EzksEemaqdavD6deHQ" type="3016" element="_Ffn9wDksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Fgb2FDksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fgb2FTksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0QzzQTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QzzQjkpEemaqdavD6deHQ" y="-42" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0QzzQjkpEemaqdavD6deHQ" x="151" y="83" width="150" height="50"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_KPXKsTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPXKsjkpEemaqdavD6deHQ" x="189" y="654"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPXKsjkpEemaqdavD6deHQ" x="123" y="594" width="306" height="91"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_KPYY0zkpEemaqdavD6deHQ" type="3008" element="_KMZWQDkpEemaqdavD6deHQ">
               <children xmi:type="notation:Node" xmi:id="_KPYY1jkpEemaqdavD6deHQ" type="5005"/>
@@ -216,65 +216,65 @@
                 <children xmi:type="notation:Node" xmi:id="_0Q1BYzkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Q1BZDkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q5S0DkpEemaqdavD6deHQ" type="3016" element="_0QOkcDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q5S0TkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q5S0jkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgcdIDksEemaqdavD6deHQ" type="3016" element="_Ffn9wTksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgcdITksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgcdIjksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q1BYTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q1BYjkpEemaqdavD6deHQ" y="32" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q1BYjkpEemaqdavD6deHQ" y="98" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Q1ocDkpEemaqdavD6deHQ" type="3012" element="_0QPLgDkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Q1oczkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Q1odDkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q5S0zkpEemaqdavD6deHQ" type="3016" element="_0QRAsDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q5S1DkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q5S1TkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgcdIzksEemaqdavD6deHQ" type="3016" element="_Ffn9wjksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgcdJDksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgcdJTksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q1ocTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q1ocjkpEemaqdavD6deHQ" y="-42" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q1ocjkpEemaqdavD6deHQ" x="151" y="98" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Q2PgDkpEemaqdavD6deHQ" type="3012" element="_0QRnwDkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Q2PgzkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Q2PhDkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q5S1jkpEemaqdavD6deHQ" type="3016" element="_0QUEADkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q5S1zkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q5S2DkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgdEMDksEemaqdavD6deHQ" type="3016" element="_Ffn9wzksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgdEMTksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgdEMjksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q2PgTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q2PgjkpEemaqdavD6deHQ" x="101" y="32" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q2PgjkpEemaqdavD6deHQ" x="302" y="98" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Q22kDkpEemaqdavD6deHQ" type="3012" element="_0QUEATkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Q3doDkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Q3doTkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q554DkpEemaqdavD6deHQ" type="3016" element="_0QXHUDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q554TkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q554jkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgdEMzksEemaqdavD6deHQ" type="3016" element="_Ffn9xDksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgdENDksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgdENTksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q22kTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q22kjkpEemaqdavD6deHQ" x="215" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q22kjkpEemaqdavD6deHQ" x="453" y="98" width="150" height="50"/>
               </children>
               <children xmi:type="notation:Node" xmi:id="_0Q4EsDkpEemaqdavD6deHQ" type="3012" element="_0QXuYDkpEemaqdavD6deHQ">
                 <children xmi:type="notation:Node" xmi:id="_0Q4rwDkpEemaqdavD6deHQ" type="5010">
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Q4rwTkpEemaqdavD6deHQ" y="5"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_0Q554zkpEemaqdavD6deHQ" type="3016" element="_0QZjkDkpEemaqdavD6deHQ">
-                  <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q555DkpEemaqdavD6deHQ" fontName="Segoe UI"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q555TkpEemaqdavD6deHQ"/>
+                <children xmi:type="notation:Node" xmi:id="_FgdENjksEemaqdavD6deHQ" type="3016" element="_Ffn9xTksEemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FgdENzksEemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgdEODksEemaqdavD6deHQ"/>
                 </children>
                 <styles xmi:type="notation:ShapeStyle" xmi:id="_0Q4EsTkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q4EsjkpEemaqdavD6deHQ" x="101" y="-42" width="100" height="50"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0Q4EsjkpEemaqdavD6deHQ" x="604" y="98" width="150" height="50"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_KPYY1DkpEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPYY1TkpEemaqdavD6deHQ" x="168" y="519"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KPYY1TkpEemaqdavD6deHQ" x="559" y="144" width="766" height="106"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_eCfeUTkmEemaqdavD6deHQ"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_eCfeUjkmEemaqdavD6deHQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_eCGcwTkmEemaqdavD6deHQ" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCGcwjkmEemaqdavD6deHQ" x="-14" y="-45" width="975" height="1124"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCGcwjkmEemaqdavD6deHQ" x="-14" y="-45" width="1350" height="766"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_eCgscDkmEemaqdavD6deHQ" type="2002" element="_eA14gDkmEemaqdavD6deHQ">
           <children xmi:type="notation:Node" xmi:id="_eChTgDkmEemaqdavD6deHQ" type="5006"/>
@@ -339,9 +339,252 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_eChTgzkmEemaqdavD6deHQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_eCgscTkmEemaqdavD6deHQ" fontName="Segoe UI"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCgscjkmEemaqdavD6deHQ" x="975" y="45" width="690" height="463"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eCgscjkmEemaqdavD6deHQ" x="1500" y="37" width="690" height="463"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_wyNPUDkyEemaqdavD6deHQ" type="2002" element="_wx9-wDkyEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_wyNPUzkyEemaqdavD6deHQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_wyOdcDkyEemaqdavD6deHQ" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_M_qHEDk0EemaqdavD6deHQ" type="3007" element="_M_lOkDk0EemaqdavD6deHQ">
+              <children xmi:type="notation:Node" xmi:id="_M_quIDk0EemaqdavD6deHQ" type="5003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_M_quITk0EemaqdavD6deHQ" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_M_quIjk0EemaqdavD6deHQ" type="3016" element="_M_lOkTk0EemaqdavD6deHQ">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_M_quIzk0EemaqdavD6deHQ" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M_quJDk0EemaqdavD6deHQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_M_qHETk0EemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M_qHEjk0EemaqdavD6deHQ" x="25" y="69" width="100" height="100"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_7QFRgDk0EemaqdavD6deHQ" type="3007" element="_7P7ggDk0EemaqdavD6deHQ">
+              <children xmi:type="notation:Node" xmi:id="_7QF4kDk0EemaqdavD6deHQ" type="5003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_7QF4kTk0EemaqdavD6deHQ" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_7QF4kjk0EemaqdavD6deHQ" type="3016" element="_7P7ggTk0EemaqdavD6deHQ">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_7QF4kzk0EemaqdavD6deHQ" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7QF4lDk0EemaqdavD6deHQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_7QFRgTk0EemaqdavD6deHQ" fontColor="16777215" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7QFRgjk0EemaqdavD6deHQ" x="717" y="430" width="100" height="100"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_bK3MEDk1EemaqdavD6deHQ" type="3008" element="_bKs0ADk1EemaqdavD6deHQ">
+              <children xmi:type="notation:Node" xmi:id="_bK3MEzk1EemaqdavD6deHQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_bK3MFDk1EemaqdavD6deHQ" type="7002">
+                <styles xmi:type="notation:SortingStyle" xmi:id="_bK3MFTk1EemaqdavD6deHQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_bK3MFjk1EemaqdavD6deHQ"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_y_T4sDk1EemaqdavD6deHQ" type="3012" element="_y_LV0Dk1EemaqdavD6deHQ">
+                <children xmi:type="notation:Node" xmi:id="_y_T4szk1EemaqdavD6deHQ" type="5010">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_y_T4tDk1EemaqdavD6deHQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_y_UfwDk1EemaqdavD6deHQ" type="3016" element="_y_LV0Tk1EemaqdavD6deHQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_y_UfwTk1EemaqdavD6deHQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y_Ufwjk1EemaqdavD6deHQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_y_T4sTk1EemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y_T4sjk1EemaqdavD6deHQ" x="60" y="140" width="150" height="50"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_bK3METk1EemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bK3MEjk1EemaqdavD6deHQ" x="220" y="69" width="360" height="150"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_wyOdcTkyEemaqdavD6deHQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_wyOdcjkyEemaqdavD6deHQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_wyNPUTkyEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wyNPUjkyEemaqdavD6deHQ" x="1395" y="525" width="871" height="570"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_S_XIEjkmEemaqdavD6deHQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_rKJCUDksEemaqdavD6deHQ" type="4001" element="_rI8IcDksEemaqdavD6deHQ" source="_p3Kw0DknEemaqdavD6deHQ" target="_KPMLkDkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_rKK3gDksEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rKK3gTksEemaqdavD6deHQ" x="-2" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rKLekDksEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rKLekTksEemaqdavD6deHQ" x="1" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rKMFoDksEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rKMFoTksEemaqdavD6deHQ" x="1" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_rKJCUTksEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_rKJCUjksEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rKJCUzksEemaqdavD6deHQ" points="[50, 1, -182, -6]$[94, 2, -138, -5]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rKZhADksEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rKZhATksEemaqdavD6deHQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_t5zREDktEemaqdavD6deHQ" type="4001" element="_t5WlIDktEemaqdavD6deHQ" source="_KPMLkDkpEemaqdavD6deHQ" target="_KPUucDkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_t5z4IDktEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t5z4ITktEemaqdavD6deHQ" x="-4" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_t5z4IjktEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t5z4IzktEemaqdavD6deHQ" x="2" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_t5z4JDktEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t5z4JTktEemaqdavD6deHQ" x="3" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_t5zRETktEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_t5zREjktEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_t5zREzktEemaqdavD6deHQ" points="[0, 39, 0, -76]$[0, 77, 0, -38]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_t50fMDktEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_t50fMTktEemaqdavD6deHQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_t50fMjktEemaqdavD6deHQ" type="4001" element="_t5XMMDktEemaqdavD6deHQ" source="_KPXKsDkpEemaqdavD6deHQ" target="_KPYY0zkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_t50fNjktEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t50fNzktEemaqdavD6deHQ" x="-55" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_t50fODktEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t50fOTktEemaqdavD6deHQ" x="-31" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_t50fOjktEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t50fOzktEemaqdavD6deHQ" x="-40"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_t50fMzktEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_t50fNDktEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_t50fNTktEemaqdavD6deHQ" points="[199, 0, -241, 420]$[289, 0, -151, 420]$[289, -420, -151, 0]$[329, -420, -111, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_t50fPDktEemaqdavD6deHQ" id="(0.3496732026143791,0.21978021978021978)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_t50fPTktEemaqdavD6deHQ" id="(0.14556135770234988,0.4716981132075472)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9JqtiDktEemaqdavD6deHQ" type="4001" element="_9JH68DktEemaqdavD6deHQ" source="_0Qvh1jkpEemaqdavD6deHQ" target="_KPXKsDkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_9JrUkDktEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JrUkTktEemaqdavD6deHQ" x="-30" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9JrUkjktEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JrUkzktEemaqdavD6deHQ" x="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9JrUlDktEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JrUlTktEemaqdavD6deHQ" x="19"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9JqtiTktEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9JqtijktEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9JqtizktEemaqdavD6deHQ" points="[0, 25, -163, -119]$[0, 88, -163, -56]$[163, 88, 0, -56]$[163, 133, 0, -11]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9Jr7oDktEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9Jr7oTktEemaqdavD6deHQ" id="(0.5522875816993464,0.12087912087912088)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9Jr7ojktEemaqdavD6deHQ" type="4001" element="_9JIiADktEemaqdavD6deHQ" source="_0Qwv8DkpEemaqdavD6deHQ" target="_KPXKsDkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_9Jr7pjktEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Jr7pzktEemaqdavD6deHQ" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9Jr7qDktEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Jr7qTktEemaqdavD6deHQ" x="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9Jr7qjktEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Jr7qzktEemaqdavD6deHQ" x="23"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9Jr7ozktEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9Jr7pDktEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9Jr7pTktEemaqdavD6deHQ" points="[0, 25, 146, -113]$[0, 88, 146, -50]$[-137, 88, 9, -50]$[-137, 133, 9, -5]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9JsisDktEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9JsisTktEemaqdavD6deHQ" id="(0.5294117647058824,0.054945054945054944)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9JsisjktEemaqdavD6deHQ" type="4001" element="_9JJJEjktEemaqdavD6deHQ" source="_0QwI4jkpEemaqdavD6deHQ" target="_KPYY0zkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_9JsitjktEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JsitzktEemaqdavD6deHQ" x="-7" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9JsiuDktEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JsiuTktEemaqdavD6deHQ" x="5" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9JsiujktEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JsiuzktEemaqdavD6deHQ" x="-120" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9JsiszktEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9JsitDktEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9JsitTktEemaqdavD6deHQ" points="[0, 25, -390, 292]$[0, 73, -390, 340]$[254, 73, -136, 340]$[254, -77, -136, 190]$[254, -267, -136, 0]$[279, -267, -111, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9JtJwDktEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9JtJwTktEemaqdavD6deHQ" id="(0.14556135770234988,0.4716981132075472)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Bo8DQDkwEemaqdavD6deHQ" type="4001" element="_Bo6OEDkwEemaqdavD6deHQ" source="_0Q1BYDkpEemaqdavD6deHQ" target="_eCihoDkmEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_Bo8qUDkwEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bo8qUTkwEemaqdavD6deHQ" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Bo8qUjkwEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bo8qUzkwEemaqdavD6deHQ" x="1" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Bo8qVDkwEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bo8qVTkwEemaqdavD6deHQ" x="-1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Bo8DQTkwEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Bo8DQjkwEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Bo8DQzkwEemaqdavD6deHQ" points="[-1, 25, 4, -112]$[-4, 87, 1, -50]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Bo8qVjkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Bo8qVzkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Wki6gDkwEemaqdavD6deHQ" type="4001" element="_Wj72gDkwEemaqdavD6deHQ" source="_0Q1ocDkpEemaqdavD6deHQ" target="_eCgscDkmEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_WkjhkDkwEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkjhkTkwEemaqdavD6deHQ" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WkjhkjkwEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkjhkzkwEemaqdavD6deHQ" x="-1" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WkjhlDkwEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkjhlTkwEemaqdavD6deHQ" x="-1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Wki6gTkwEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Wki6gjkwEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Wki6gzkwEemaqdavD6deHQ" points="[0, 25, -726, -48]$[0, 72, -726, -1]$[724, 72, -2, -1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WkjhljkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WkjhlzkwEemaqdavD6deHQ" id="(0.002898550724637681,0.5701943844492441)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_WkjhmDkwEemaqdavD6deHQ" type="4001" element="_Wj72gzkwEemaqdavD6deHQ" source="_0Q2PgDkpEemaqdavD6deHQ" target="_eCgscDkmEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_WkkIoDkwEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkkIoTkwEemaqdavD6deHQ" x="-1" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WkkIojkwEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkkIozkwEemaqdavD6deHQ" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_WkkIpDkwEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WkkIpTkwEemaqdavD6deHQ" x="-1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_WkjhmTkwEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_WkjhmjkwEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WkjhmzkwEemaqdavD6deHQ" points="[0, 25, -577, -71]$[0, 87, -577, -9]$[573, 87, -4, -9]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WkkIpjkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WkkIpzkwEemaqdavD6deHQ" id="(0.005797101449275362,0.6198704103671706)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_rH-iUDkwEemaqdavD6deHQ" type="4001" element="_rFoY8DkwEemaqdavD6deHQ" source="_0QtsoDkpEemaqdavD6deHQ" target="_KPVVgzkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_rH-iVDkwEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH-iVTkwEemaqdavD6deHQ" x="-7" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rH-iVjkwEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH-iVzkwEemaqdavD6deHQ" x="5" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rH-iWDkwEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH-iWTkwEemaqdavD6deHQ" x="5" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_rH-iUTkwEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_rH-iUjkwEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rH-iUzkwEemaqdavD6deHQ" points="[0, 25, -1, -33]$[0, 57, -1, -1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rH_JYDkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rH_JYTkwEemaqdavD6deHQ" id="(0.35357917570498915,0.011111111111111112)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_rH_JYjkwEemaqdavD6deHQ" type="4001" element="_rFpAADkwEemaqdavD6deHQ" source="_0Qu6wDkpEemaqdavD6deHQ" target="_KPYY0zkpEemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_rH_JZjkwEemaqdavD6deHQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH_JZzkwEemaqdavD6deHQ" x="17"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rH_JaDkwEemaqdavD6deHQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH_JaTkwEemaqdavD6deHQ" x="12" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_rH_JajkwEemaqdavD6deHQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rH_JazkwEemaqdavD6deHQ" x="-1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_rH_JYzkwEemaqdavD6deHQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_rH_JZDkwEemaqdavD6deHQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rH_JZTkwEemaqdavD6deHQ" points="[0, 25, -194, 133]$[0, 42, -194, 150]$[137, 42, -57, 150]$[137, -108, -57, 0]$[192, -108, -2, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rH_wcDkwEemaqdavD6deHQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rH_wcTkwEemaqdavD6deHQ" id="(0.0026109660574412533,0.42452830188679247)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_CqONMDlIEemnAfSoTiBfeQ" type="4001" element="_CqD1IDlIEemnAfSoTiBfeQ" source="_M_qHEDk0EemaqdavD6deHQ" target="_bK3MEDk1EemaqdavD6deHQ">
+          <children xmi:type="notation:Node" xmi:id="_CqPbUDlIEemnAfSoTiBfeQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CqPbUTlIEemnAfSoTiBfeQ" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_CqPbUjlIEemnAfSoTiBfeQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CqPbUzlIEemnAfSoTiBfeQ" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_CqPbVDlIEemnAfSoTiBfeQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CqPbVTlIEemnAfSoTiBfeQ" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_CqONMTlIEemnAfSoTiBfeQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_CqONMjlIEemnAfSoTiBfeQ" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CqONMzlIEemnAfSoTiBfeQ" points="[0, 0, -95, 0]$[95, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CqQCYDlIEemnAfSoTiBfeQ" id="(1.0,0.49)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CqQCYTlIEemnAfSoTiBfeQ" id="(0.0,0.32666666666666666)"/>
+        </edges>
       </data>
     </ownedAnnotationEntries>
     <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_eA0DUDkmEemaqdavD6deHQ" name="Modulo de datos personales">
@@ -350,22 +593,22 @@
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="__5gmoDknEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="__5gmoDknEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
         <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_eA4UwDkmEemaqdavD6deHQ" name="Fin módulo datos personales" width="10" height="10" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_eA4UwDkmEemaqdavD6deHQ" name="Fin módulo datos personales" incomingEdges="_Bo6OEDkwEemaqdavD6deHQ" width="10" height="10" resizeKind="NSEW">
         <target xmi:type="EPF:Fin" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@fin"/>
         <semanticElements xmi:type="EPF:Fin" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@fin"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_eA_CcDkmEemaqdavD6deHQ" labelColor="255,255,255" borderColor="136,136,136" labelPosition="node" horizontalDiameter="10" verticalDiameter="10" color="0,0,0">
+        <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_eA_CcDkmEemaqdavD6deHQ" showIcon="false" labelColor="255,255,255" borderColor="136,136,136" labelPosition="node" horizontalDiameter="10" verticalDiameter="10" color="0,0,0">
           <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Fin']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Fin']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p2ai4DknEemaqdavD6deHQ" name="Inicio módulo de datos personales" width="10" height="10" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p2ai4DknEemaqdavD6deHQ" name="Inicio módulo de datos personales" outgoingEdges="_rI8IcDksEemaqdavD6deHQ" width="10" height="10" resizeKind="NSEW">
         <target xmi:type="EPF:Inicio" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@inicio"/>
         <semanticElements xmi:type="EPF:Inicio" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@inicio"/>
         <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_p2c_IDknEemaqdavD6deHQ" showIcon="false" labelPosition="node" horizontalDiameter="10" verticalDiameter="10" color="138,226,52">
@@ -373,38 +616,38 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Inicio']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMMh8DkpEemaqdavD6deHQ" name="¿Cúal es su nombre?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMMh8DkpEemaqdavD6deHQ" name="A      ¿Cúal es su nombre?" tooltipText="'Hola'" outgoingEdges="_t5WlIDktEemaqdavD6deHQ" incomingEdges="_rI8IcDksEemaqdavD6deHQ">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.0"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.0"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMPlQDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMPlQDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMPlQTkpEemaqdavD6deHQ" name="¿Cúal es su edad?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMPlQTkpEemaqdavD6deHQ" name="UR      ¿Cúal es su edad?" tooltipText="'Hola'" incomingEdges="_t5WlIDktEemaqdavD6deHQ">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P0UwDkpEemaqdavD6deHQ" name="18 años o más" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P0UwDkpEemaqdavD6deHQ" name="18 años o más" outgoingEdges="_rFoY8DkwEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1/@respuestas.0"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1/@respuestas.0"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0P3YEDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfmvoDksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P3YETkpEemaqdavD6deHQ" name="Menos de 18 años" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P3YETkpEemaqdavD6deHQ" name="Menos de 18 años" outgoingEdges="_rFpAADkwEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1/@respuestas.1"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.1/@respuestas.1"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0P50UDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfmvoTksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
@@ -412,43 +655,43 @@
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMSBgDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMSBgDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMSokDkpEemaqdavD6deHQ" name="¿Cúal es su estado civil?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMSokDkpEemaqdavD6deHQ" name="UR      ¿Cúal es su estado civil?" tooltipText="'Hola'" incomingEdges="_rFoY8DkwEemaqdavD6deHQ">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P50UTkpEemaqdavD6deHQ" name="Casado" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P50UTkpEemaqdavD6deHQ" name="Casado" outgoingEdges="_9JH68DktEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.0"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.0"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0P8QkDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfmvojksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P83oDkpEemaqdavD6deHQ" name="Soltero" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P83oDkpEemaqdavD6deHQ" name="Soltero" outgoingEdges="_9JJJEjktEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.1"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.1"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0P-s0DkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfnWsDksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P_T4DkpEemaqdavD6deHQ" name="Unión libre" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0P_T4DkpEemaqdavD6deHQ" name="Unión libre" outgoingEdges="_9JIiADktEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.2"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.2/@respuestas.2"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QEzcDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfnWsTksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
@@ -456,26 +699,32 @@
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMUdwDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMUdwDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMUdwTkpEemaqdavD6deHQ" name="¿Hace cuanto vive con su pareja?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMUdwTkpEemaqdavD6deHQ" name="UR      ¿Hace cuanto vive con su pareja?" tooltipText="'Hola'" outgoingEdges="_t5XMMDktEemaqdavD6deHQ" incomingEdges="_9JH68DktEemaqdavD6deHQ _9JIiADktEemaqdavD6deHQ">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QGBkDkpEemaqdavD6deHQ" name="Menos de 2 años" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QGBkDkpEemaqdavD6deHQ" name="Menos de 2 años" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3/@respuestas.0"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3/@respuestas.0"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QH2wDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_FfnWsjksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QId0DkpEemaqdavD6deHQ" name="2 años o más" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QId0DkpEemaqdavD6deHQ" name="2 años o más" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3/@respuestas.1"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.3/@respuestas.1"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QLhIDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9wDksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
@@ -483,53 +732,65 @@
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMW6ADkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMW6ADkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMZWQDkpEemaqdavD6deHQ" name="¿Cúal es su grado de escolaridad?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMZWQDkpEemaqdavD6deHQ" name="UR      ¿Cúal es su grado de escolaridad?" tooltipText="'Hola'" incomingEdges="_t5XMMDktEemaqdavD6deHQ _9JJJEjktEemaqdavD6deHQ _rFpAADkwEemaqdavD6deHQ">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4"/>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QMIMDkpEemaqdavD6deHQ" name="Bachiller" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QMIMDkpEemaqdavD6deHQ" name="Bachiller" outgoingEdges="_Bo6OEDkwEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.0"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.0"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QOkcDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9wTksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QPLgDkpEemaqdavD6deHQ" name="Técnico" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QPLgDkpEemaqdavD6deHQ" name="Técnico" outgoingEdges="_Wj72gDkwEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.1"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.1"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QRAsDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9wjksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QRnwDkpEemaqdavD6deHQ" name="Tecnólogo" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QRnwDkpEemaqdavD6deHQ" name="Tecnólogo" outgoingEdges="_Wj72gzkwEemaqdavD6deHQ" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.2"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.2"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QUEADkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9wzksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QUEATkpEemaqdavD6deHQ" name="Universitario" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QUEATkpEemaqdavD6deHQ" name="Universitario" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.3"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.3"/>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QXHUDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9xDksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
         </ownedBorderedNodes>
-        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QXuYDkpEemaqdavD6deHQ" name="Postgrado" width="10" height="5" resizeKind="NSEW">
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_0QXuYDkpEemaqdavD6deHQ" name="Postgrado" width="15" height="5" resizeKind="NSEW">
           <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.4"/>
           <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.0/@preguntas.4/@respuestas.4"/>
           <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
           <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
           <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_0QZjkDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="10" verticalDiameter="5" color="255,255,255">
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_Ffn9xTksEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
             <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
@@ -537,19 +798,19 @@
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMcZkDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMcZkDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_eA14gDkmEemaqdavD6deHQ" name="Módulo de ingresos">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_eA14gDkmEemaqdavD6deHQ" name="Módulo de ingresos" incomingEdges="_Wj72gDkwEemaqdavD6deHQ _Wj72gzkwEemaqdavD6deHQ">
       <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
       <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.1"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="__5hNsDknEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="__5hNsDknEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
         <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
@@ -564,61 +825,221 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Inicio']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMe10DkpEemaqdavD6deHQ" name="¿Cáules son sus ingresos mensuales?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMe10DkpEemaqdavD6deHQ" name="UR      ¿Cáules son sus ingresos mensuales?" tooltipText="'Hola'">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.0"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.0"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMigMDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMigMDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMigMTkpEemaqdavD6deHQ" name="¿Cuántos trabajos tiene?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMigMTkpEemaqdavD6deHQ" name="UR      ¿Cuántos trabajos tiene?" tooltipText="'Hola'">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.1"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.1"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMk8cDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMk8cDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMk8cTkpEemaqdavD6deHQ" name="¿Usted es trabajador independiente?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMk8cTkpEemaqdavD6deHQ" name="UR      ¿Usted es trabajador independiente?" tooltipText="'Hola'">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.2"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.2"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMmxoDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMmxoDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMnYsDkpEemaqdavD6deHQ" name="Su/sus contrato/s es/son">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMnYsDkpEemaqdavD6deHQ" name="MR      Su/sus contrato/s es/son" tooltipText="'Hola'">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.3"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.3"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMp08DkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMp08DkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMqcADkpEemaqdavD6deHQ" name="¿Cotiza salud y pensión?">
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_KMqcADkpEemaqdavD6deHQ" name="UR      ¿Cotiza salud y pensión?" tooltipText="'Hola'">
         <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.4"/>
         <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.1/@preguntas.4"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMuGYDkpEemaqdavD6deHQ" borderSize="1" borderSizeComputationExpression="1">
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_KMuGYDkpEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
       </ownedDiagramElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_rI8IcDksEemaqdavD6deHQ" sourceNode="_p2ai4DknEemaqdavD6deHQ" targetNode="_KMMh8DkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoInicio" href="EncuestaInicial.sistemaencuestas#//@elemento.2"/>
+      <semanticElements xmi:type="EPF:SaltoInicio" href="EncuestaInicial.sistemaencuestas#//@elemento.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_rI9WkDksEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoInicio']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_rI9WkTksEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoInicio']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_t5WlIDktEemaqdavD6deHQ" sourceNode="_KMMh8DkpEemaqdavD6deHQ" targetNode="_KMPlQTkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoPregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.3"/>
+      <semanticElements xmi:type="EPF:SaltoPregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_t5WlITktEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_t5WlIjktEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_t5XMMDktEemaqdavD6deHQ" sourceNode="_KMUdwTkpEemaqdavD6deHQ" targetNode="_KMZWQDkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoPregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.9"/>
+      <semanticElements xmi:type="EPF:SaltoPregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.9"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_t5XzQDktEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_t5XzQTktEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_9JH68DktEemaqdavD6deHQ" sourceNode="_0P50UTkpEemaqdavD6deHQ" targetNode="_KMUdwTkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.6"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.6"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_9JH68TktEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_9JH68jktEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_9JIiADktEemaqdavD6deHQ" sourceNode="_0P_T4DkpEemaqdavD6deHQ" targetNode="_KMUdwTkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.7"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.7"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_9JJJEDktEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_9JJJETktEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_9JJJEjktEemaqdavD6deHQ" sourceNode="_0P83oDkpEemaqdavD6deHQ" targetNode="_KMZWQDkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.8"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.8"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_9JJJEzktEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_9JJJFDktEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Bo6OEDkwEemaqdavD6deHQ" sourceNode="_0QMIMDkpEemaqdavD6deHQ" targetNode="_eA4UwDkmEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoFinRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.12"/>
+      <semanticElements xmi:type="EPF:SaltoFinRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.12"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Bo6OETkwEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaFin']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Bo6OEjkwEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaFin']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Wj72gDkwEemaqdavD6deHQ" sourceNode="_0QPLgDkpEemaqdavD6deHQ" targetNode="_eA14gDkmEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.10"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.10"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Wj72gTkwEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaModulo']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Wj72gjkwEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaModulo']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Wj72gzkwEemaqdavD6deHQ" sourceNode="_0QRnwDkpEemaqdavD6deHQ" targetNode="_eA14gDkmEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.11"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.11"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Wj8dkDkwEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaModulo']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Wj8dkTkwEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaModulo']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_rFoY8DkwEemaqdavD6deHQ" sourceNode="_0P0UwDkpEemaqdavD6deHQ" targetNode="_KMSokDkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.4"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.4"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_rFoY8TkwEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_rFoY8jkwEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_rFpAADkwEemaqdavD6deHQ" sourceNode="_0P3YETkpEemaqdavD6deHQ" targetNode="_KMZWQDkpEemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.5"/>
+      <semanticElements xmi:type="EPF:SaltoRespuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_rFpAATkwEemaqdavD6deHQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_rFpAAjkwEemaqdavD6deHQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_wx9-wDkyEemaqdavD6deHQ" name="Modulo Universitario">
+      <target xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.13"/>
+      <semanticElements xmi:type="EPF:Modulo" href="EncuestaInicial.sistemaencuestas#//@elemento.13"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_wx9-wTkyEemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']"/>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_M_lOkDk0EemaqdavD6deHQ" name="Inicio Modulo Universitario" outgoingEdges="_CqD1IDlIEemnAfSoTiBfeQ" width="10" height="10" resizeKind="NSEW">
+        <target xmi:type="EPF:Inicio" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@inicio"/>
+        <semanticElements xmi:type="EPF:Inicio" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@inicio"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_M_lOkTk0EemaqdavD6deHQ" showIcon="false" labelPosition="node" horizontalDiameter="10" verticalDiameter="10" color="138,226,52">
+          <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Inicio']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Inicio']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_7P7ggDk0EemaqdavD6deHQ" name="Fin Modulo Universitario" width="10" height="10" resizeKind="NSEW">
+        <target xmi:type="EPF:Fin" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@fin"/>
+        <semanticElements xmi:type="EPF:Fin" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@fin"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_7P7ggTk0EemaqdavD6deHQ" showIcon="false" labelColor="255,255,255" borderColor="136,136,136" labelPosition="node" horizontalDiameter="10" verticalDiameter="10" color="0,0,0">
+          <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Fin']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subNodeMappings[name='Fin']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_bKs0ADk1EemaqdavD6deHQ" name="A      ¿Cuántos años estudió en la universidad?" incomingEdges="_CqD1IDlIEemnAfSoTiBfeQ">
+        <target xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@preguntas.0"/>
+        <semanticElements xmi:type="EPF:Pregunta" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@preguntas.0"/>
+        <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_y_LV0Dk1EemaqdavD6deHQ" name="4 años" width="15" height="5" resizeKind="NSEW">
+          <target xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@preguntas.0/@respuestas.0"/>
+          <semanticElements xmi:type="EPF:Respuesta" href="EncuestaInicial.sistemaencuestas#//@elemento.13/@preguntas.0/@respuestas.0"/>
+          <ownedStyle xmi:type="diagram:Ellipse" xmi:id="_y_LV0Tk1EemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1" labelPosition="node" horizontalDiameter="15" verticalDiameter="5" color="255,255,255">
+            <description xmi:type="style:EllipseNodeDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@borderedNodeMappings[name='Respuestas']"/>
+        </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_bKs0ATk1EemaqdavD6deHQ" showIcon="false" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@containerMappings[name='ModuloContainer']/@subContainerMappings[name='PreguntasContainer']"/>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_CqD1IDlIEemnAfSoTiBfeQ" sourceNode="_M_lOkDk0EemaqdavD6deHQ" targetNode="_bKs0ADk1EemaqdavD6deHQ">
+      <target xmi:type="EPF:SaltoInicio" href="EncuestaInicial.sistemaencuestas#//@elemento.14"/>
+      <semanticElements xmi:type="EPF:SaltoInicio" href="EncuestaInicial.sistemaencuestas#//@elemento.14"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_CqEcMDlIEemnAfSoTiBfeQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoInicio']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_CqEcMTlIEemnAfSoTiBfeQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoInicio']"/>
     </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/resource/encuestas.project.design/description/encuestas.odesign#//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_S-5OBDkmEemaqdavD6deHQ"/>
