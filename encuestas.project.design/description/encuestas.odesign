@@ -84,11 +84,13 @@
             </borderedNodeMappings>
             <style xsi:type="style:WorkspaceImageDescription" borderSizeComputationExpression="1" showIcon="false" labelExpression="[tipoPregunta + '      ' + descripcion /]">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             </style>
           </subContainerMappings>
           <style xsi:type="style:WorkspaceImageDescription" borderSizeComputationExpression="1" showIcon="false" labelExpression="feature:titulo">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelFormat>bold</labelFormat>
             <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
           </style>
         </containerMappings>
@@ -162,6 +164,76 @@
             <initialOperation>
               <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
                 <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoPregunta" referenceName="elemento">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="SaltoRespuestaPregunta" edgeMappings="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaPregunta']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoRespuesta" referenceName="elemento">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="SaltoPreguntaModulo" edgeMappings="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaModulo']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoPregunta" referenceName="elemento">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="SaltoFinRespuesta" edgeMappings="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaFin']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoFinRespuesta" referenceName="elemento">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="SaltoFinPregunta" edgeMappings="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoPreguntaFin']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoFinPregunta" referenceName="elemento">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="SaltoRespuestaModulo" edgeMappings="//@ownedViewpoints[name='encuentas']/@ownedRepresentations[name='General%20']/@defaultLayer/@edgeMappings[name='SaltoRespuestaModulo']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="[eContainer(Encuesta)/]">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="SaltoRespuesta" referenceName="elemento">
                   <subModelOperations xsi:type="tool_1:SetValue" featureName="origen" valueExpression="var:source"/>
                   <subModelOperations xsi:type="tool_1:SetValue" featureName="destino" valueExpression="var:target"/>
                 </subModelOperations>
