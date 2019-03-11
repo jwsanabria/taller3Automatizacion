@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<EPF:Encuesta xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:EPF="EPF.com">
-  <elemento xsi:type="EPF:Modulo" titulo="Modulo de datos personales">
+<EPF:Encuesta xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:EPF="EPF.com" titulo="Situación académica y laboral">
+  <elemento xsi:type="EPF:Modulo" titulo="Modulo de datos personales" esInicial="1">
     <preguntas descripcion="¿Cúal es su nombre?"/>
-    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su edad?">
+    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su edad?" idPregunta="1">
       <respuestas valor="18 años o más"/>
-      <respuestas valor="Menos de 18 años"/>
+      <respuestas valor="Menos de 18 años" idRespuesta="1"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su estado civil?">
-      <respuestas valor="Casado"/>
-      <respuestas valor="Soltero"/>
-      <respuestas valor="Unión libre"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su estado civil?" idPregunta="2">
+      <respuestas valor="Casado" idRespuesta="2"/>
+      <respuestas valor="Soltero" idRespuesta="3"/>
+      <respuestas valor="Unión libre" idRespuesta="4"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Hace cuanto vive con su pareja?">
-      <respuestas valor="Menos de 2 años"/>
-      <respuestas valor="2 años o más"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Hace cuanto vive con su pareja?" idPregunta="3">
+      <respuestas valor="Menos de 2 años" idRespuesta="5"/>
+      <respuestas valor="2 años o más" idRespuesta="6"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su grado de escolaridad?">
-      <respuestas valor="Bachiller"/>
-      <respuestas valor="Técnico"/>
-      <respuestas valor="Tecnólogo"/>
-      <respuestas valor="Universitario"/>
-      <respuestas valor="Postgrado"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Cúal es su grado de escolaridad?" idPregunta="4">
+      <respuestas valor="Bachiller" idRespuesta="7"/>
+      <respuestas valor="Técnico" idRespuesta="8"/>
+      <respuestas valor="Tecnólogo" idRespuesta="9"/>
+      <respuestas valor="Universitario" idRespuesta="10"/>
+      <respuestas valor="Postgrado" idRespuesta="11"/>
     </preguntas>
     <inicio titulo="Inicio módulo de datos personales"/>
     <fin titulo="Fin módulo datos personales"/>
   </elemento>
-  <elemento xsi:type="EPF:Modulo" titulo="Módulo de ingresos">
-    <preguntas tipoPregunta="UR" descripcion="¿Cáules son sus ingresos mensuales?">
-      <respuestas valor="Menos de un salario mínimo"/>
-      <respuestas valor="Un salario mínimo"/>
-      <respuestas valor="Más de un salario mínimo"/>
+  <elemento xsi:type="EPF:Modulo" titulo="Módulo de ingresos" idModulo="1">
+    <preguntas tipoPregunta="UR" descripcion="¿Cáules son sus ingresos mensuales?" idPregunta="5">
+      <respuestas valor="Menos de un salario mínimo" idRespuesta="12"/>
+      <respuestas valor="Un salario mínimo" idRespuesta="13"/>
+      <respuestas valor="Más de un salario mínimo" idRespuesta="14"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Cuántos trabajos tiene?">
-      <respuestas valor="1"/>
-      <respuestas valor="2"/>
-      <respuestas valor="Más de 2"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Cuántos trabajos tiene?" idPregunta="6">
+      <respuestas valor="1" idRespuesta="15"/>
+      <respuestas valor="2" idRespuesta="16"/>
+      <respuestas valor="Más de 2" idRespuesta="17"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Usted es trabajador independiente?">
-      <respuestas valor="Si"/>
-      <respuestas valor="No"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Usted es trabajador independiente?" idPregunta="7">
+      <respuestas valor="Si" idRespuesta="18"/>
+      <respuestas valor="No" idRespuesta="19"/>
     </preguntas>
-    <preguntas tipoPregunta="MR" descripcion="Su/sus contrato/s es/son">
-      <respuestas valor="A termino fijo"/>
-      <respuestas valor="Prestación de servicios"/>
-      <respuestas valor="A término indefinido"/>
+    <preguntas tipoPregunta="MR" descripcion="Su/sus contrato/s es/son" idPregunta="8">
+      <respuestas valor="A termino fijo" idRespuesta="20"/>
+      <respuestas valor="Prestación de servicios" idRespuesta="21"/>
+      <respuestas valor="A término indefinido" idRespuesta="22"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Cotiza salud y pensión?">
-      <respuestas valor="Si"/>
-      <respuestas valor="No"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Cotiza salud y pensión?" idPregunta="9">
+      <respuestas valor="Si" idRespuesta="23"/>
+      <respuestas valor="No" idRespuesta="24"/>
     </preguntas>
     <inicio titulo="Inicio módulo ingresos"/>
     <fin titulo="Fin modulo ingresos"/>
@@ -61,27 +61,27 @@
   <elemento xsi:type="EPF:SaltoRespuesta" destino="//@elemento.0/@preguntas.4" origen="//@elemento.0/@preguntas.2/@respuestas.1"/>
   <elemento xsi:type="EPF:SaltoPregunta" origen="//@elemento.0/@preguntas.3" destino="//@elemento.0/@preguntas.4"/>
   <elemento xsi:type="EPF:SaltoFinRespuesta" titulo="" destino="//@elemento.0/@fin" origen="//@elemento.0/@preguntas.4/@respuestas.0"/>
-  <elemento xsi:type="EPF:Modulo" titulo="Modulo Universitario">
-    <preguntas tipoPregunta="UR" descripcion="¿Cuántos años estudió en la universidad?">
-      <respuestas valor="4 años"/>
-      <respuestas valor="Más de 4 años y menos de 8"/>
-      <respuestas valor="8 años o más"/>
+  <elemento xsi:type="EPF:Modulo" titulo="Modulo Universitario" idModulo="2">
+    <preguntas tipoPregunta="UR" descripcion="¿Cuántos años estudió en la universidad?" idPregunta="10">
+      <respuestas valor="4 años" idRespuesta="25"/>
+      <respuestas valor="Más de 4 años y menos de 8" idRespuesta="26"/>
+      <respuestas valor="8 años o más" idRespuesta="27"/>
     </preguntas>
-    <preguntas tipoPregunta="MR" descripcion="Estudio en una Universidad:">
-      <respuestas valor="Pública"/>
-      <respuestas valor="Privada"/>
-      <respuestas valor="Privada y pública"/>
+    <preguntas tipoPregunta="MR" descripcion="Estudio en una Universidad:" idPregunta="11">
+      <respuestas valor="Pública" idRespuesta="28"/>
+      <respuestas valor="Privada" idRespuesta="29"/>
+      <respuestas valor="Privada y pública" idRespuesta="30"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Usted terminó todos sus estudios?">
-      <respuestas valor="Si"/>
-      <respuestas valor="No"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Usted terminó todos sus estudios?" idPregunta="12">
+      <respuestas valor="Si" idRespuesta="31"/>
+      <respuestas valor="No" idRespuesta="32"/>
     </preguntas>
-    <preguntas tipoPregunta="UR" descripcion="¿Usted pagó?">
-      <respuestas valor="Menos de un millon"/>
-      <respuestas valor="Más de un millon y menos de 4 millones"/>
-      <respuestas valor="Más de 4 millones"/>
+    <preguntas tipoPregunta="UR" descripcion="¿Usted pagó?" idPregunta="13">
+      <respuestas valor="Menos de un millon" idRespuesta="33"/>
+      <respuestas valor="Más de un millon y menos de 4 millones" idRespuesta="34"/>
+      <respuestas valor="Más de 4 millones" idRespuesta="35"/>
     </preguntas>
-    <preguntas descripcion="¿Cúal es el nombre de su universidad?"/>
+    <preguntas descripcion="¿Cúal es el nombre de su universidad?" idPregunta="14"/>
     <inicio titulo="Inicio Modulo Universitario"/>
   </elemento>
   <elemento xsi:type="EPF:SaltoInicio" origen="//@elemento.11/@inicio" destino="//@elemento.11/@preguntas.0"/>
